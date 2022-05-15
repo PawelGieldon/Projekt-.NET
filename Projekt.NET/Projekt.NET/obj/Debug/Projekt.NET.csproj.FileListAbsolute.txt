@@ -1,0 +1,10 @@
+C:\Users\pawel\source\repos\Projekt.NET\Projekt.NET\bin\Debug\Projekt.NET.exe.config
+C:\Users\pawel\source\repos\Projekt.NET\Projekt.NET\bin\Debug\Projekt.NET.exe
+C:\Users\pawel\source\repos\Projekt.NET\Projekt.NET\bin\Debug\Projekt.NET.pdb
+C:\Users\pawel\source\repos\Projekt.NET\Projekt.NET\obj\Debug\Projekt.NET.csproj.AssemblyReference.cache
+C:\Users\pawel\source\repos\Projekt.NET\Projekt.NET\obj\Debug\Projekt.NET.Form1.resources
+C:\Users\pawel\source\repos\Projekt.NET\Projekt.NET\obj\Debug\Projekt.NET.Properties.Resources.resources
+C:\Users\pawel\source\repos\Projekt.NET\Projekt.NET\obj\Debug\Projekt.NET.csproj.GenerateResource.cache
+C:\Users\pawel\source\repos\Projekt.NET\Projekt.NET\obj\Debug\Projekt.NET.csproj.CoreCompileInputs.cache
+C:\Users\pawel\source\repos\Projekt.NET\Projekt.NET\obj\Debug\Projekt.NET.exe
+C:\Users\pawel\source\repos\Projekt.NET\Projekt.NET\obj\Debug\Projekt.NET.pdb
